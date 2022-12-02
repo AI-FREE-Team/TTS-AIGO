@@ -21,11 +21,11 @@ python tts_english.py samples/english_02.txt
 
 ## 專案內容
 1. 原住民族語音生成
-    1. 教學影片，(請點此)[]
+    1. 教學影片，[請點此]()
 2. 文字轉語音系統(Text-to-Speech, TTS)理論
-    1. 教學影片，(請點此)[]
+    1. 教學影片，[請點此]()
 3. 文字轉語音系統(TTS)實作
-    1. 教學影片，(請點此)[]
+    1. 教學影片，[請點此]()
 
 # 參考資源
 * Nvidia NeMo: https://docs.nvidia.com/deeplearning/nemo/user-guide/docs/en/stable/tts/intro.html
