@@ -25,4 +25,5 @@ python tts_english.py samples/english_02.txt
 3. 文字轉語音系統(TTS)實作
 
 # 參考資源
-Nvidia NeMo: https://docs.nvidia.com/deeplearning/nemo/user-guide/docs/en/stable/tts/intro.html
+* Nvidia NeMo: https://docs.nvidia.com/deeplearning/nemo/user-guide/docs/en/stable/tts/intro.html
+* 原語會族語樂園: https://web.klokah.tw/essay/
