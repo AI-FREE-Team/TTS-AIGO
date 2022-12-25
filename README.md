@@ -5,12 +5,13 @@
 點此[連結](https://keithito.com/LJ-Speech-Dataset/)，取得 LJ Dataset。
 
 2. 取得預訓練模型(Pretrained Models)
-點此[連結](https://drive.google.com/drive/u/3/folders/1FhLjoT3FdTdo2b_sYziOcy59YURC4v59)，下載範例程式碼(`Text-to-Speech.ipynb`)會用到的預訓練模型
+點此[連結](https://drive.google.com/drive/u/3/folders/1FhLjoT3FdTdo2b_sYziOcy59YURC4v59)，下載本專案開源程式碼會用到的預訓練模型
 
 3. 取得本專案開源程式碼
 ```
 git clone https://github.com/AI-FREE-Team/TTS-AIGO.git
 ```
+或直接點選`Text_to_Speech_for_Google_Colab.ipynb`，然後點選**Open in Colab**。
 
 ## 緣起
 民國110年，於AIGO媒合賽中與財團法人原住民族語言研究發展基金會合作，共同打造文字轉語音系統(Text-to-Speech, TTS)。
