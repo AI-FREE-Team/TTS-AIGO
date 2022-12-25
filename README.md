@@ -1,6 +1,6 @@
 # 語音合成(Speech Synthesis)
 
-## 快速開始
+## 執行程式碼的必備條件
 1. 取得 LJ Dataset
 點此[連結](https://keithito.com/LJ-Speech-Dataset/)，取得 LJ Dataset。
 
@@ -24,5 +24,6 @@ git clone https://github.com/AI-FREE-Team/TTS-AIGO.git
     1. 教學影片，[請點此]()
 
 # 參考資源
-* Nvidia NeMo: https://docs.nvidia.com/deeplearning/nemo/user-guide/docs/en/stable/tts/intro.html
-* 原語會族語樂園: https://web.klokah.tw/essay/
+* [Nvidia NeMo](https://docs.nvidia.com/deeplearning/nemo/user-guide/docs/en/stable/tts/intro.html)
+* [原語會族語樂園](https://web.klokah.tw/essay/)
+* [LJ Dataset](https://keithito.com/LJ-Speech-Dataset/)
