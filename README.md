@@ -17,11 +17,11 @@ git clone https://github.com/AI-FREE-Team/TTS-AIGO.git
 或直接點選`Text_to_Speech_for_Google_Colab.ipynb`，然後點選**Open in Colab**。
 
 ## 影片說明
-* 語音合成(Speech Synthesis)-Part I-開源專案簡介
+* 點選圖片至 YouTube 觀看相關此影片 - Part I
 [![EP1](https://raw.githubusercontent.com/AI-FREE-Team/TTS-AIGO/main/pictures/EP1.png)](https://www.youtube.com/watch?v=Ku0V2J1jKvo&ab_channel=AI.FREETeam)
-* 語音合成(Speech Synthesis)-Part II-Nemo 簡介
+* 點選圖片至 YouTube 觀看相關此影片 - Part II
 [![EP2](https://raw.githubusercontent.com/AI-FREE-Team/TTS-AIGO/main/pictures/EP2.png)](https://www.youtube.com/watch?v=SsMeP87hBxM&ab_channel=AI.FREETeam)
-* 語音合成(Speech Synthesis)-Part III-程式碼介紹
+* 點選圖片至 YouTube 觀看相關此影片 - Part III
 [![EP3](https://raw.githubusercontent.com/AI-FREE-Team/TTS-AIGO/main/pictures/EP3.png)](https://www.youtube.com/watch?v=fzbknjZxQhQ&ab_channel=AI.FREETeam)
 
 ## 專案內容
