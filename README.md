@@ -13,15 +13,19 @@ git clone https://github.com/AI-FREE-Team/TTS-AIGO.git
 ```
 
 ## 緣起
-於民國110年時，AIGO媒合賽中與財團法人原住民族語言研究發展基金會合作，共同打造文字轉語音系統(Text-to-Speech, TTS)。
+民國110年，於AIGO媒合賽中與財團法人原住民族語言研究發展基金會合作，共同打造文字轉語音系統(Text-to-Speech, TTS)。
 
 ## 專案內容
-1. 原住民族語音生成
-    1. 教學影片，[請點此]()
-2. 文字轉語音系統(Text-to-Speech, TTS)理論
-    1. 教學影片，[請點此]()
-3. 文字轉語音系統(TTS)實作
-    1. 教學影片，[請點此]()
+針對 `Text_to_Speech_for_(Google Colab/ TWCC).ipynb`:
+* 第一部分: 簡介 Nemo 與 TTS 任務
+* 第二部分: 資料前處理
+* 第三部分: 模型訓練
+* 第四部份: 模型推論
+* 第五部分: 模型推論(針對太魯閣族語音生成)
+* 第六部分: 引用
+
+# 補充內容
+若使用 TWCC 作為執行環境(特別是用於模型訓練階段)，可參考 `slides/TWCC: 建立開發型容器.pptx` 與 `slides/TWCC: 將檔案上傳到指定目錄.pptx`，完成基本設置。並參考 `Text_to_Speech_for_TWCC.ipynb`。
 
 # 參考資源
 * [Nvidia NeMo](https://docs.nvidia.com/deeplearning/nemo/user-guide/docs/en/stable/tts/intro.html)
