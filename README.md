@@ -32,3 +32,8 @@ git clone https://github.com/AI-FREE-Team/TTS-AIGO.git
 * [Nvidia NeMo](https://docs.nvidia.com/deeplearning/nemo/user-guide/docs/en/stable/tts/intro.html)
 * [原語會族語樂園](https://web.klokah.tw/essay/)
 * [LJ Dataset](https://keithito.com/LJ-Speech-Dataset/)
+
+## 聯絡方式
+* Email: ai.free.startup@gmail.com
+* 臉書粉專: [FB Link](https://www.facebook.com/aifreeteam)
+* 官方網站: [Official Website](https://ai-free-team.github.io/)
