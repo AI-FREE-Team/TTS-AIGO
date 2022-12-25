@@ -18,11 +18,11 @@ git clone https://github.com/AI-FREE-Team/TTS-AIGO.git
 
 ## 影片說明
 * 語音合成(Speech Synthesis)-Part I-開源專案簡介
-[![EP1](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=Ku0V2J1jKvo&ab_channel=AI.FREETeam)
+[![EP1](https://raw.githubusercontent.com/AI-FREE-Team/TTS-AIGO/main/pictures/EP1.png)](https://www.youtube.com/watch?v=Ku0V2J1jKvo&ab_channel=AI.FREETeam)
 * 語音合成(Speech Synthesis)-Part II-Nemo 簡介
-[![EP2](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=SsMeP87hBxM&ab_channel=AI.FREETeam)
+[![EP2](https://raw.githubusercontent.com/AI-FREE-Team/TTS-AIGO/main/pictures/EP2.png)](https://www.youtube.com/watch?v=SsMeP87hBxM&ab_channel=AI.FREETeam)
 * 語音合成(Speech Synthesis)-Part III-程式碼介紹
-[![EP3](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=SsMeP87hBxM&ab_channel=AI.FREETeam)
+[![EP3](https://raw.githubusercontent.com/AI-FREE-Team/TTS-AIGO/main/pictures/EP3.png)](https://www.youtube.com/watch?v=fzbknjZxQhQ&ab_channel=AI.FREETeam)
 
 ## 專案內容
 針對 `Text_to_Speech_for_(Google Colab/ TWCC).ipynb`:
