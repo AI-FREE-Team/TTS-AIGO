@@ -18,11 +18,11 @@ git clone https://github.com/AI-FREE-Team/TTS-AIGO.git
 
 ## 影片說明
 * 點選圖片至 YouTube 觀看相關此影片 - Part I
-[![EP1](https://raw.githubusercontent.com/AI-FREE-Team/TTS-AIGO/main/pictures/EP1.png)](https://www.youtube.com/watch?v=tHbz6dAnRDs)
+[![EP1](https://raw.githubusercontent.com/AI-FREE-Team/TTS-AIGO/main/pictures/EP1.png)](https://youtu.be/Q6DhZMei43M)
 * 點選圖片至 YouTube 觀看相關此影片 - Part II
-[![EP2](https://raw.githubusercontent.com/AI-FREE-Team/TTS-AIGO/main/pictures/EP2.png)](https://www.youtube.com/watch?v=73D4Fka8i0s)
+[![EP2](https://raw.githubusercontent.com/AI-FREE-Team/TTS-AIGO/main/pictures/EP2.png)](https://youtu.be/dTS7WkBMyuw)
 * 點選圖片至 YouTube 觀看相關此影片 - Part III
-[![EP3](https://raw.githubusercontent.com/AI-FREE-Team/TTS-AIGO/main/pictures/EP3.png)](https://www.youtube.com/watch?v=UBsjvlK2JTM)
+[![EP3](https://raw.githubusercontent.com/AI-FREE-Team/TTS-AIGO/main/pictures/EP3.png)](https://youtu.be/zBbdYIyu-WI)
 
 ## 專案內容
 針對 `Text_to_Speech_for_(Google Colab/ TWCC).ipynb`:
